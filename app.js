@@ -29,3 +29,16 @@ function verificarAmigos() {
         
     }
 }
+
+function sortearAmigo(){
+    if(amigos.length == 0){
+        alert("Se não exister nomes na lista, coloque 2 nomes para sortear")
+    }
+    else {
+        let indiceAleatorio = Math.floor(Math.random() * amigos.length);
+        let amigoSorteado = amigos[indiceAleatorio];
+        let mostrarNaTela = document.getElementById('resultado');
+        mostrarNaTela.innerHTML = amigoSorteado;
+    }
+
+}

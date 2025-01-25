@@ -18,7 +18,7 @@ Este é um projeto que implementa o clássico **Jogo do Amigo Secreto** (também
    git clone https://github.com/Gabrielzuntini/jogo-do-amigo-secreto.git
 
 🛠 Tecnologias Utilizadas
-[HTML5/JS/CSS]: Linguagem principal.
+[HTML/JS/CSS]: Linguagem principal.
 
 ✨ Como Funciona o Sorteio
 1. O sistema recebe a lista de participantes.
@@ -34,3 +34,6 @@ Envie suas alterações.
 Abra um Pull Request no GitHub.
 
 Obrigado por conferir este projeto! 🎉
+
+
+https://gabrielzuntini.github.io/jogo-do-amigo-secreto/
